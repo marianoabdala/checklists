@@ -12,4 +12,4 @@ Preferrably, first thing in the morning. Most To-Do list apps will allow you to 
 - [ ] Mark Important tasks in Today's list
 - [ ] Mark Due Today tasks in Today's list
 
-[^1]: Create those lists if you don't have them already and make sure to review and update them accordingly. You should probably also have a Next Week and a Next Month list as well.
+[1]: Create those lists if you don't have them already and make sure to review and update them accordingly. You should probably also have a Next Week and a Next Month list as well.
